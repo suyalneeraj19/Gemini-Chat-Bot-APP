@@ -1,3 +1,5 @@
-# gemini_chat_bot
+# Chat Bot Apk
 
-A new Flutter project.
+A simple chat bot based apk build using Flutter.
+
+
