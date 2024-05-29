@@ -1,2 +1,3 @@
-# Gemini-Chat-Bot-APP
-A flutter based app which gives chat prompts like Chat GPT
+# gemini_chat_bot
+
+A new Flutter project.
